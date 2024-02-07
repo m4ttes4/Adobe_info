@@ -1,0 +1,203 @@
+TraceSourceApp Information: 0 : Started Logging...
+    DateTime=2024-02-07T06:32:56.6707016Z
+TraceSourceApp Information: 0 : ****************Settings:*******
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Command line paramcount: 0
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Licensing: True
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Procmon: True
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Sys Info: True
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Installed Apps Info: True
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Dumps Mini: True
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Dumps Full: False
+    DateTime=2024-02-07T06:33:00.7196798Z
+TraceSourceApp Information: 0 : Please reproduce the steps that led to the issue and then select Stop monitoring
+    DateTime=2024-02-07T06:33:00.7206940Z
+TraceSourceApp Information: 0 : Procdump: procdump
+    DateTime=2024-02-07T06:33:00.7211065Z
+TraceSourceApp Information: 0 : ProcMon: True
+    DateTime=2024-02-07T06:33:00.7211065Z
+TraceSourceApp Information: 0 : License Logging: True
+    DateTime=2024-02-07T06:33:00.7211065Z
+TraceSourceApp Information: 0 : ****************PreFlightChecks Started*******
+    DateTime=2024-02-07T06:33:00.7241153Z
+TraceSourceApp Information: 0 : ShowRestartAcrobatAlert: False
+    DateTime=2024-02-07T06:33:00.7251418Z
+TraceSourceApp Information: 0 : AcroLog is not enabled. Creating Registry
+    DateTime=2024-02-07T06:33:00.7251418Z
+TraceSourceApp Information: 0 : Registry write success
+    DateTime=2024-02-07T06:33:00.7261431Z
+TraceSourceApp Information: 0 : AcroLog Registry Created:True
+    DateTime=2024-02-07T06:33:00.7261431Z
+TraceSourceApp Information: 0 : SustainAcroLog is not enabled. Creating Registry
+    DateTime=2024-02-07T06:33:00.7261431Z
+TraceSourceApp Information: 0 : Registry write success
+    DateTime=2024-02-07T06:33:00.7261431Z
+TraceSourceApp Information: 0 : SustainAcroLog Registry Created:True
+    DateTime=2024-02-07T06:33:00.7261431Z
+TraceSourceApp Information: 0 : PDF Maker logs is not enabled. Creating Registry
+    DateTime=2024-02-07T06:33:00.7261431Z
+TraceSourceApp Information: 0 : Registry write success
+    DateTime=2024-02-07T06:33:00.7271421Z
+TraceSourceApp Information: 0 : PDFMaker Registry Created
+    DateTime=2024-02-07T06:33:00.7271421Z
+TraceSourceApp Information: 0 : Acrobat Info
+    DateTime=2024-02-07T06:33:00.7271421Z
+TraceSourceApp Information: 0 : exename:Acrobat
+    DateTime=2024-02-07T06:33:00.7271421Z
+TraceSourceApp Information: 0 : installPath:C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe
+    DateTime=2024-02-07T06:33:00.7271421Z
+TraceSourceApp Information: 0 : version:DC
+    DateTime=2024-02-07T06:33:00.7271421Z
+TraceSourceApp Information: 0 : versionNumber:23.8.20470.0
+    DateTime=2024-02-07T06:33:00.7271421Z
+TraceSourceApp Information: 0 : isAcrobatRunning:False
+    DateTime=2024-02-07T06:33:00.7281421Z
+TraceSourceApp Information: 0 : Settings Info
+    DateTime=2024-02-07T06:33:00.7281421Z
+TraceSourceApp Information: 0 : Licensing:True
+    DateTime=2024-02-07T06:33:00.7281421Z
+TraceSourceApp Information: 0 : AcroLog:True Enabled:True
+    DateTime=2024-02-07T06:33:00.7281421Z
+TraceSourceApp Information: 0 : AcroLog:True Sustain Enabled:True
+    DateTime=2024-02-07T06:33:00.7291421Z
+TraceSourceApp Information: 0 : PDFMakerLog:True Enabled:True
+    DateTime=2024-02-07T06:33:00.7291421Z
+TraceSourceApp Information: 0 : IPMLog:True
+    DateTime=2024-02-07T06:33:00.7291421Z
+TraceSourceApp Information: 0 : ****************PreFlightChecks Ended*********
+    DateTime=2024-02-07T06:33:00.7291421Z
+TraceSourceApp Information: 0 : Getting list of installed applications...
+    DateTime=2024-02-07T06:33:00.7813183Z
+TraceSourceApp Information: 0 : Source directory not found: C:\Users\matte\AppData\Local\Temp\NGL
+    DateTime=2024-02-07T06:33:00.7890910Z
+TraceSourceApp Information: 0 : Exporting Registry
+    DateTime=2024-02-07T06:33:00.7970968Z
+TraceSourceApp Information: 0 : Downloading and launching process monitor...
+    DateTime=2024-02-07T06:33:01.0471290Z
+TraceSourceApp Information: 0 : Downloading Procmon
+    DateTime=2024-02-07T06:33:03.1485195Z
+TraceSourceApp Information: 0 : Fetching the acrobat version info.:DC
+    DateTime=2024-02-07T06:33:05.9163930Z
+TraceSourceApp Information: 0 : Enabling broker logs
+    DateTime=2024-02-07T06:33:05.9163930Z
+TraceSourceApp Information: 0 : Adobe launched, trying to attach the debugger...
+    DateTime=2024-02-07T06:33:05.9163930Z
+TraceSourceApp Information: 0 : expose_startstop_in_worker
+    DateTime=2024-02-07T06:33:05.9163930Z
+TraceSourceApp Information: 0 : Please reproduce the steps that led to the issue and then select Stop monitoring
+    DateTime=2024-02-07T06:33:05.9163930Z
+TraceSourceApp Information: 0 : Processing. please wait...
+    DateTime=2024-02-07T06:34:18.8847370Z
+TraceSourceApp Information: 0 : Please wait. Generating Acrobat dumps
+    DateTime=2024-02-07T06:34:18.8847370Z
+TraceSourceApp Information: 0 : Closing process monitor. This may take some time...
+    DateTime=2024-02-07T06:34:18.9038559Z
+TraceSourceApp Information: 0 : Restore the broker logs config.
+    DateTime=2024-02-07T06:34:24.0558951Z
+TraceSourceApp Information: 0 : Disabled broker log
+    DateTime=2024-02-07T06:34:24.0558951Z
+TraceSourceApp Information: 0 : Disable AcroLog.
+    DateTime=2024-02-07T06:34:24.0568954Z
+TraceSourceApp Information: 0 : Disable Sustain AcroLog.
+    DateTime=2024-02-07T06:34:24.0568954Z
+TraceSourceApp Error: 1 : System.ArgumentException: Nessun valore con il nome specificato.
+   in System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   in Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   in utils.RegistryUtil.DeleteRegistryKey(WinRegistry registryType, String registryKey, String name)
+    DateTime=2024-02-07T06:34:24.0609461Z
+TraceSourceApp Information: 0 : Disable PDFMakerlog.
+    DateTime=2024-02-07T06:34:24.0609461Z
+TraceSourceApp Information: 0 : Aborting the worker thread.
+    DateTime=2024-02-07T06:34:24.0609461Z
+TraceSourceApp Information: 0 : Copy the procmon config file.
+    DateTime=2024-02-07T06:34:24.0609461Z
+TraceSourceApp Information: 0 : procmon file dirty state:False
+    DateTime=2024-02-07T06:34:24.0609461Z
+TraceSourceApp Information: 0 : Copying File
+    DateTime=2024-02-07T06:34:24.0609461Z
+TraceSourceApp Information: 0 : Deleting File
+    DateTime=2024-02-07T06:34:24.1078235Z
+TraceSourceApp Information: 0 : Fetching AcroLog Info
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : Copying AcroLog files...
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : Copying AcroLog files...
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : Fetching AcroLog Info
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : Copying PDFMaker files...
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Error: 1 : File does not exist C:\Users\matte\AppData\Local\Temp\PDFMWord.log
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Error: 1 : File does not exist C:\Users\matte\AppData\Local\Temp\PDFMPowerPoint.log
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Error: 1 : File does not exist C:\Users\matte\AppData\Local\Temp\PDFMExcel.log
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Error: 1 : File does not exist C:\Users\matte\AppData\Local\Temp\PDFMEngine.log
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : Copying IPM files...
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Error: 1 : File does not exist C:\Users\matte\Appdata\LocalLow\Adobe\Acrobat\DC\Exchange-ProMessages
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : File copied successfully
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : File copied successfully
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : Logging complete.
+    DateTime=2024-02-07T06:34:24.1234500Z
+TraceSourceApp Information: 0 : File copied successfully
+    DateTime=2024-02-07T06:34:42.6741952Z
+TraceSourceApp Information: 0 : Data compression in progress. Please wait for a few minutes
+    DateTime=2024-02-07T06:34:42.6845235Z
+TraceSourceApp Information: 0 : Files skipped from final zip:0
+    DateTime=2024-02-07T06:34:42.6965336Z
+TraceSourceApp Information: 0 : File copied successfully
+    DateTime=2024-02-07T06:34:44.4170045Z
+TraceSourceApp Information: 0 : Source file deleted successfully
+    DateTime=2024-02-07T06:34:44.4170045Z
+TraceSourceApp Information: 0 : Delete directory successfull. LocationC:\Users\matte\AppData\Local\Temp\AcroMon\temp
+    DateTime=2024-02-07T06:34:44.4170045Z
+TraceSourceApp Information: 0 : Size of 'C:\Users\matte\AppData\Local\Temp\AcroMon\Output\20240207073256\acroWinLog_a0dae6e4-8b45-4820-bee7-345a927a6e48_abc.zip': 10 MB
+    DateTime=2024-02-07T06:34:44.4326318Z
+TraceSourceApp Information: 0 : Uploading
+    DateTime=2024-02-07T06:34:44.4326318Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9379498Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9535304Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9535304Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9535304Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9535304Z
+TraceSourceApp Information: 0 : Uploading:100%
+    DateTime=2024-02-07T06:34:49.9535304Z
+TraceSourceApp Information: 0 : File uploaded successfully
+    DateTime=2024-02-07T06:34:50.7953539Z
+TraceSourceApp Information: 0 : Closing Application
+    DateTime=2024-02-07T06:34:57.6971387Z
+TraceSourceApp Information: 0 : Closing Application
+    DateTime=2024-02-07T06:34:57.6971387Z
